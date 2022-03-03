@@ -1,0 +1,15 @@
+{
+    "baseUrl": "https://cxm.lucidya.com/",
+    "env": {
+      "loginUsername": "msayed+100@lucidya.com",
+      "loginPassword": "5abS5buvzpXfVd6"
+    },
+    "reporter": "cypress-multi-reporters",
+    "reporterOptions": {
+      "configFile": "reporter-config.json"
+    },
+    "viewportHeight": 1080,
+    "viewportWidth": 1920,
+    "defaultCommandTimeout": 5000,
+    "pageLoadTimeout": 300000
+  }
